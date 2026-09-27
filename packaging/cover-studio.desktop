@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Cover Studio
+GenericName=Stampa cover e dischi
+GenericName[en]=Cover and disc printing
+Comment=Stampa di cover, etichette per dischi e fogli di etichette adesive
+Comment[en]=Print CD/DVD covers, disc labels and adhesive label sheets
+Exec=cover-studio
+Icon=cover-studio
+Terminal=false
+Categories=Graphics;2DGraphics;Publishing;
+Keywords=cover;cd;dvd;disco;disc;etichetta;label;stampa;print;
+StartupNotify=true

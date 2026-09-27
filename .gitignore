@@ -1,0 +1,8 @@
+# Pacchetti e cartelle generati da build-deb.sh
+*.deb
+build/
+# File di Python generati automaticamente
+__pycache__/
+*.pyc
+# Copie di sicurezza
+*.bak
